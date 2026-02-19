@@ -1,5 +1,3 @@
-# Service-Science-a9n7p5
-
 graph TD
     A[User <br> Initiates via voice or text] --> B[Chatbot Interface <br> Adapts to language & accessibility]
     B --> C[AI Processing Engine <br> Translates intent & validates claims]
